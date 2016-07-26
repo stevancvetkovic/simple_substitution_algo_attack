@@ -1,0 +1,9 @@
+Automatizovani napad na "simple substitution". Program treba iz fajla koji mu se
+navede da procita tekst koji je dobijen kodiranjem teksta koji je u originalnu
+bio napisan engleskim jezikom. Odrediti broj pojavljivanja svakog od slova u
+tekstu. Poredati slova u niz od onih koja se pojavljuju najcešce ka onima koja
+se pojavljuju najrede i upariti ih sa sledecim nizom koji predstavlja slova
+engleske azbuke poredana po ucestalosti korišcenja {e, t, a, o, n, i, s, h, r, d,
+l, u, c, m, f, w, y, g, p, b, v, k, j, x, z, q}. Na osnovu toga generisati
+probno dekriptovanje teksta. Ostaviti korisniku mogucnost da nakon toga promeni
+generisano preslikavanje kako bi optimizovao dobijeni rezultat.
